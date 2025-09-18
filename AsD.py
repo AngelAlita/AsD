@@ -174,8 +174,8 @@ def main(args):
             image_area = image_width * image_height
 
             
-            percentage = args.percentage #目标比例
-            target_area = image_area * percentage #目标面积
+            percentage = args.percentage 
+            target_area = image_area * percentage 
         
             # add noise
             if args.AsD or args.AsD_wo_prompt:
