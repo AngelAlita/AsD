@@ -32,8 +32,14 @@ python AsD.py --data_type SD_TYPO --save_folder ./results/MMBench/AsD --AsD_img_
 python evaluation.py --data_type SD_TYPO --save_folder ./results/MMBench/AsD --AsD
 ```
 
+## 🔖 Citation
+If you find our repository helpful, kindly cite our paper: 
+```bibtex
 
-## License
+```
+
+## 🔑 License
+
 This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgements
