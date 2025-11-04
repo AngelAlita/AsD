@@ -1,5 +1,5 @@
 # Attack as Defense: Safeguarding Large Vision-Language Models from Jailbreaking by Adversarial Attacks
-This is the official implementation of EMNLP 2025 paper [Attack as Defense: Safeguarding Large Vision-Language Models from Jailbreaking by Adversarial Attacks]()
+This is the official implementation of EMNLP 2025 paper [Attack as Defense: Safeguarding Large Vision-Language Models from Jailbreaking by Adversarial Attacks](https://aclanthology.org/2025.findings-emnlp.1095.pdf)
 
 
 ![overview](assests/overview.png)
@@ -35,6 +35,24 @@ python evaluation.py --data_type SD_TYPO --save_folder ./results/MMBench/AsD --A
 ## 🔖 Citation
 If you find our repository helpful, kindly cite our paper: 
 ```bibtex
+@inproceedings{li-etal-2025-attack,
+    title = "Attack as Defense: Safeguarding Large Vision-Language Models from Jailbreaking by Adversarial Attacks",
+    author = "Li, Chongxin  and
+      Wang, Hanzhang  and
+      Fang, Yuchun",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.1095/",
+    pages = "20138--20152",
+    ISBN = "979-8-89176-335-7"
+}
 
 ```
 
